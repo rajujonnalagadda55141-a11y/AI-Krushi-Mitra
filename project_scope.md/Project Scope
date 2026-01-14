@@ -1,0 +1,78 @@
+# Project Scope – AI Farming Assistant
+
+## 1. Problem Statement
+
+Farmers often struggle to get timely and correct information about:
+
+- Which crop to grow
+- How much fertilizer to use
+- How to identify pests and diseases
+- What actions to take based on weather
+
+This project aims to solve this by providing an AI-powered assistant for farmers.
+
+---
+
+## 2. Target Users
+
+- Small and medium farmers
+- New farmers
+- Agriculture students
+
+---
+
+## 3. Supported Crops (Phase 1)
+
+We will start with only:
+
+- Rice
+- Cotton
+- Maize
+- Chilli
+
+(Other crops can be added later.)
+
+---
+
+## 4. Features (Phase 1)
+
+### 4.1 Crop Advice
+
+- Best season to grow
+- Soil type suggestion
+- Basic care tips
+
+### 4.2 Fertilizer Guidance
+
+- Which fertilizer to use
+- Quantity recommendation
+- Application timing
+
+### 4.3 Pest & Disease Q&A
+
+- Farmers can ask:  
+  “My chilli leaves are turning yellow, what should I do?”
+- AI suggests possible cause + solution
+
+### 4.4 Weather-Based Suggestions
+
+- Advice based on rain, heat, or cold
+- Example: “Rain expected tomorrow – delay fertilizer application.”
+
+---
+
+## 5. What is NOT included in Phase 1
+
+- No market price prediction
+- No government scheme tracking
+- No drone or IoT integration
+
+---
+
+## 6. Success Goal
+
+If a farmer can:
+
+- Ask a question
+- Get clear advice
+- And take better farming decisions

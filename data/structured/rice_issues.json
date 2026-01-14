@@ -1,0 +1,50 @@
+[
+  {
+    "crop": "Rice",
+    "issue": "Yellowing of older leaves",
+    "cause": "Nitrogen deficiency",
+    "solution": "Apply split doses of nitrogenous fertilizer"
+  },
+  {
+    "crop": "Rice",
+    "issue": "Purpling of leaves",
+    "cause": "Phosphorus deficiency",
+    "solution": "Use phosphorus fertilizers like DAP or SSP"
+  },
+  {
+    "crop": "Rice",
+    "issue": "Brown spots on leaves",
+    "cause": "Blast disease (fungus)",
+    "solution": "Use resistant varieties and avoid dense planting"
+  },
+  {
+    "crop": "Rice",
+    "issue": "Whitish powder on leaves",
+    "cause": "Powdery mildew",
+    "solution": "Spray appropriate fungicides following label instructions"
+  },
+  {
+    "crop": "Rice",
+    "issue": "Leaf rolling and yellow streaks",
+    "cause": "Rice tungro virus",
+    "solution": "Control insect vectors and plant resistant varieties"
+  },
+  {
+    "crop": "Rice",
+    "issue": "Root rot / stunted growth",
+    "cause": "Excess water / poor drainage",
+    "solution": "Improve drainage and avoid water logging"
+  },
+  {
+    "crop": "Rice",
+    "issue": "Poor grain filling",
+    "cause": "Heat stress during flowering",
+    "solution": "Ensure adequate irrigation and select heat-tolerant varieties"
+  },
+  {
+    "crop": "Rice",
+    "issue": "Yellowing after rain",
+    "cause": "Nutrient leaching",
+    "solution": "Apply fertilizer after rain and improve soil cover"
+  }
+]

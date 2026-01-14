@@ -1,0 +1,44 @@
+[
+  {
+    "crop": "Maize",
+    "issue": "Interveinal chlorosis",
+    "cause": "Magnesium deficiency",
+    "solution": "Apply magnesium sulfate (Epsom salt) based on soil test"
+  },
+  {
+    "crop": "Maize",
+    "issue": "Leaf blight spots",
+    "cause": "Fungal blight disease",
+    "solution": "Apply recommended fungicides and avoid excessive moisture"
+  },
+  {
+    "crop": "Maize",
+    "issue": "Stalk rot",
+    "cause": "Fusarium / bacterial infection",
+    "solution": "Improve drainage and rotate crops"
+  },
+  {
+    "crop": "Maize",
+    "issue": "Feeding damage on leaves",
+    "cause": "Fall armyworm pest",
+    "solution": "Use traps and biological insecticides"
+  },
+  {
+    "crop": "Maize",
+    "issue": "Poor germination",
+    "cause": "Cold soil or poor seed",
+    "solution": "Plant in warmer conditions; use quality seed"
+  },
+  {
+    "crop": "Maize",
+    "issue": "Weak plants / wind damage",
+    "cause": "Nutrient imbalance",
+    "solution": "Apply balanced NPK fertilizer after soil test"
+  },
+  {
+    "crop": "Maize",
+    "issue": "Water stress at tasseling",
+    "cause": "Drought conditions",
+    "solution": "Irrigate regularly during flowering and grain fill"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "crop": "Cotton",
+    "issue": "Leaves turning yellow",
+    "cause": "Nitrogen deficiency",
+    "solution": "Apply nitrogen fertilizer such as urea, based on soil test recommendations"
+  },
+  {
+    "crop": "Cotton",
+    "issue": "Leaf edge browning and scorching",
+    "cause": "Potassium deficiency",
+    "solution": "Apply potassium-containing fertilizers like MOP (Muriate of Potash)"
+  },
+  {
+    "crop": "Cotton",
+    "issue": "Stunted growth and pale leaves",
+    "cause": "Micronutrient deficiency (e.g., zinc, boron)",
+    "solution": "Use micronutrient sprays or soil application after soil test"
+  },
+  {
+    "crop": "Cotton",
+    "issue": "Rapid wilting and plant death",
+    "cause": "Cotton root rot disease",
+    "solution": "Improve soil drainage and remove infected plants"
+  },
+  {
+    "crop": "Cotton",
+    "issue": "Distorted or curled leaves",
+    "cause": "Cotton leaf curl virus spread by whiteflies",
+    "solution": "Control whiteflies; use resistant varieties"
+  },
+  {
+    "crop": "Cotton",
+    "issue": "Holes in bolls and damaged fibers",
+    "cause": "Bollworm pests",
+    "solution": "Monitor and use pheromone traps; apply recommended insecticides"
+  },
+  {
+    "crop": "Cotton",
+    "issue": "Poor germination",
+    "cause": "Salinity or poor seed quality",
+    "solution": "Use certified seed; avoid saline soils"
+  },
+  {
+    "crop": "Cotton",
+    "issue": "Plant lodging / weak stems",
+    "cause": "Excess nitrogen or wind damage",
+    "solution": "Balance nutrient application and provide support if needed"
+  },
+  {
+    "crop": "Cotton",
+    "issue": "Reduced yield / boll drop",
+    "cause": "Drought stress / irregular irrigation",
+    "solution": "Provide timely irrigation especially at flowering and boll formation"
+  }
+]

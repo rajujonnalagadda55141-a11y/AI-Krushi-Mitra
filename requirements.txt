@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+faiss-cpu
+requests
+pydantic
+numpy
+tensorflow
+langchain-ollama
+streamlit

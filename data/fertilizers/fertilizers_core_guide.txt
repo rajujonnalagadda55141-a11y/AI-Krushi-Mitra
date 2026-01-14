@@ -1,0 +1,179 @@
+=== FERTILIZERS CORE GUIDE ===
+Purpose: AI Krushi Mitra Knowledge Base
+Scope: All crops
+
+------------------------------------------------
+1. WHAT ARE FERTILIZERS
+------------------------------------------------
+Fertilizers are substances that provide essential nutrients to plants for healthy growth, high yield, and good quality produce.
+
+------------------------------------------------
+2. MAIN NUTRIENTS
+------------------------------------------------
+Plants need 16 essential nutrients.
+
+Primary nutrients:
+- Nitrogen (N) – leaf growth
+- Phosphorus (P) – root and flower development
+- Potassium (K) – disease resistance and quality
+
+Secondary nutrients:
+- Calcium (Ca) – cell structure
+- Magnesium (Mg) – chlorophyll
+- Sulphur (S) – protein formation
+
+Micronutrients:
+- Zinc (Zn)
+- Iron (Fe)
+- Boron (B)
+- Copper (Cu)
+- Manganese (Mn)
+- Molybdenum (Mo)
+- Chlorine (Cl)
+
+------------------------------------------------
+3. TYPES OF FERTILIZERS
+------------------------------------------------
+
+A. Chemical fertilizers  
+- Urea (Nitrogen source)  
+- DAP (Nitrogen + Phosphorus)  
+- MOP (Potassium)  
+- SSP (Phosphorus + Sulphur)  
+- NPK mixtures  
+
+B. Organic fertilizers  
+- Farm Yard Manure (FYM)  
+- Compost  
+- Vermicompost  
+- Green manure  
+
+C. Bio-fertilizers  
+- Rhizobium  
+- Azotobacter  
+- Azospirillum  
+- Phosphate Solubilizing Bacteria (PSB)  
+
+------------------------------------------------
+4. METHODS OF APPLICATION
+------------------------------------------------
+
+1. Basal application  
+Applied before or at sowing.
+
+2. Top dressing  
+Applied during crop growth.
+
+3. Foliar spray  
+Sprayed on leaves for quick effect.
+
+4. Fertigation  
+Applied through irrigation water.
+
+------------------------------------------------
+5. TIMING OF FERTILIZER USE
+------------------------------------------------
+Critical stages:
+- Early growth stage  
+- Flowering stage  
+- Grain / fruit formation stage  
+
+Avoid applying fertilizers:
+- During heavy rain  
+- During drought stress  
+- In very hot afternoon
+
+------------------------------------------------
+6. SOIL TESTING
+------------------------------------------------
+Soil testing helps to:
+- Know nutrient deficiency  
+- Avoid overuse of fertilizer  
+- Reduce cost  
+- Protect soil health  
+
+Recommendation:
+- Test soil once every 2–3 years.
+
+------------------------------------------------
+7. BALANCED FERTILIZATION
+------------------------------------------------
+Balanced use means:
+- Not using only urea  
+- Using N, P, K in correct ratio  
+- Adding micronutrients if needed  
+
+Overuse problems:
+- Soil becomes hard  
+- More pests and diseases  
+- Water pollution  
+- Lower yield in long term  
+
+------------------------------------------------
+8. COMMON NUTRIENT DEFICIENCY SYMPTOMS
+------------------------------------------------
+
+Nitrogen deficiency:
+- Yellowing of old leaves  
+- Slow growth  
+
+Phosphorus deficiency:
+- Poor root growth  
+- Purple color in leaves  
+
+Potassium deficiency:
+- Leaf edge drying  
+- Weak plants  
+
+Zinc deficiency:
+- White or yellow streaks on leaves  
+
+Iron deficiency:
+- Yellow young leaves, green veins  
+
+------------------------------------------------
+9. FERTILIZER SAFETY
+------------------------------------------------
+- Store fertilizers in dry place  
+- Keep away from children  
+- Do not mix different fertilizers unless advised  
+- Wear gloves while handling  
+- Wash hands after use  
+
+------------------------------------------------
+10. ORGANIC VS CHEMICAL – BEST PRACTICE
+------------------------------------------------
+Best farming uses both:
+
+- Organic fertilizers improve soil  
+- Chemical fertilizers give quick nutrients  
+- Bio-fertilizers improve nutrient uptake  
+
+Integrated Nutrient Management (INM):
+Using all three together for long-term soil health.
+
+------------------------------------------------
+11. FERTILIZERS AND ENVIRONMENT
+------------------------------------------------
+Problems from misuse:
+- Water pollution  
+- Soil degradation  
+- Greenhouse gas emissions  
+
+Solutions:
+- Use only recommended amount  
+- Apply at right time  
+- Use drip fertigation  
+- Add organic matter  
+
+------------------------------------------------
+12. GOVERNMENT & FARMER ADVICE
+------------------------------------------------
+- Buy fertilizers only from licensed shops  
+- Check subsidy eligibility  
+- Follow agriculture officer advice  
+- Use soil health card recommendations  
+
+------------------------------------------------
+END OF GUIDE
+------------------------------------------------

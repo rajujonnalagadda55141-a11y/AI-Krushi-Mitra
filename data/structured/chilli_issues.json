@@ -1,0 +1,38 @@
+[
+  {
+    "crop": "Chilli",
+    "issue": "Leaves curling upwards",
+    "cause": "Leaf curl virus transmitted by whiteflies",
+    "solution": "Control whiteflies and use virus-resistant seedlings"
+  },
+  {
+    "crop": "Chilli",
+    "issue": "Blossom drop",
+    "cause": "Heat stress or poor pollination",
+    "solution": "Provide adequate shade and water during hot hours"
+  },
+  {
+    "crop": "Chilli",
+    "issue": "Fruit rot",
+    "cause": "Anthracnose fungal infection",
+    "solution": "Apply appropriate fungicides and improve air circulation"
+  },
+  {
+    "crop": "Chilli",
+    "issue": "Powdery white patches",
+    "cause": "Powdery mildew",
+    "solution": "Spray sulfur-based fungicide or neem oil"
+  },
+  {
+    "crop": "Chilli",
+    "issue": "Yellowing leaves",
+    "cause": "Nitrogen deficiency",
+    "solution": "Apply balanced NPK based on soil test"
+  },
+  {
+    "crop": "Chilli",
+    "issue": "Stunted growth",
+    "cause": "Inadequate water / drought stress",
+    "solution": "Water regularly and mulch to retain soil moisture"
+  }
+]

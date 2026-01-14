@@ -1,0 +1,202 @@
+=== DISEASES CORE GUIDE ===
+Purpose: AI Krushi Mitra Knowledge Base
+Scope: All major crops
+
+================================================
+1. WHAT ARE PLANT DISEASES
+================================================
+Plant diseases are caused by fungi, bacteria, viruses, and nematodes.  
+They reduce crop yield, quality, and farmer income.
+
+================================================
+2. TYPES OF PLANT DISEASES
+================================================
+
+A. Fungal diseases  
+- Blast  
+- Rust  
+- Powdery mildew  
+- Leaf spot  
+- Wilt  
+
+B. Bacterial diseases  
+- Bacterial leaf blight  
+- Soft rot  
+- Canker  
+
+C. Viral diseases  
+- Leaf curl  
+- Mosaic  
+- Yellow vein disease  
+
+D. Nematode diseases  
+- Root knot  
+- Cyst nematode  
+
+================================================
+3. COMMON SYMPTOMS
+================================================
+
+Leaf symptoms  
+- Yellowing  
+- Spots  
+- Curling  
+- Drying  
+
+Stem symptoms  
+- Cracks  
+- Rotting  
+- Weak stems  
+
+Root symptoms  
+- Swelling  
+- Rot  
+- Poor root growth  
+
+Fruit symptoms  
+- Black spots  
+- Rot  
+- Deformation  
+
+================================================
+4. MAJOR DISEASES BY CROP
+================================================
+
+RICE  
+- Blast  
+- Sheath blight  
+- Bacterial leaf blight  
+- Tungro virus  
+
+COTTON  
+- Wilt  
+- Leaf curl virus  
+- Root rot  
+
+MAIZE  
+- Leaf blight  
+- Downy mildew  
+- Stalk rot  
+
+CHILLI  
+- Leaf curl virus  
+- Anthracnose  
+- Powdery mildew  
+
+================================================
+5. DISEASE SPREAD METHODS
+================================================
+- Infected seeds  
+- Infected soil  
+- Water splash  
+- Wind  
+- Insects  
+- Farming tools  
+
+================================================
+6. DISEASE PREVENTION (MOST IMPORTANT)
+================================================
+
+1. Use certified disease-free seed  
+2. Follow crop rotation  
+3. Maintain field hygiene  
+4. Remove infected plants  
+5. Avoid overcrowding  
+6. Proper drainage  
+7. Balanced fertilizer use  
+
+================================================
+7. INTEGRATED DISEASE MANAGEMENT (IDM)
+================================================
+
+IDM means using all methods together:
+
+A. Cultural control  
+- Crop rotation  
+- Proper spacing  
+- Timely sowing  
+
+B. Mechanical control  
+- Removing infected parts  
+- Destroying diseased plants  
+
+C. Biological control  
+- Using beneficial microbes  
+- Trichoderma, Pseudomonas  
+
+D. Chemical control  
+- Use fungicides only when needed  
+- Follow label instructions  
+- Do not overuse  
+
+================================================
+8. COMMON DISEASES & SIMPLE CONTROL METHODS
+================================================
+
+Blast (Rice)  
+- Avoid excess nitrogen  
+- Use resistant varieties  
+- Keep field clean  
+
+Wilt (Cotton)  
+- Rotate crops  
+- Improve soil drainage  
+- Use healthy seedlings  
+
+Leaf blight (Maize)  
+- Avoid water stagnation  
+- Remove infected leaves  
+
+Leaf curl (Chilli)  
+- Control whiteflies  
+- Use virus-free seedlings  
+- Remove infected plants early  
+
+================================================
+9. SEED TREATMENT
+================================================
+Seed treatment helps prevent early diseases.
+
+Methods  
+- Hot water treatment  
+- Bio-agent coating  
+- Chemical seed dressing  
+
+Benefits  
+- Protects seedlings  
+- Improves germination  
+- Reduces disease risk  
+
+================================================
+10. WEATHER & DISEASE LINK
+================================================
+High risk conditions:
+- High humidity  
+- Continuous rainfall  
+- Warm temperature  
+
+Farmers should:
+- Monitor weather  
+- Increase field inspection  
+- Act early if symptoms appear  
+
+================================================
+11. SAFE USE OF CHEMICALS
+================================================
+- Use only recommended dose  
+- Wear gloves and mask  
+- Do not spray against wind  
+- Keep chemicals away from children  
+- Observe waiting period before harvest  
+
+================================================
+12. ROLE OF GOVERNMENT & EXTENSION
+================================================
+- Use agriculture helpline  
+- Contact Krushi Vigyan Kendra  
+- Attend farmer training programs  
+- Use official advisory apps  
+
+================================================
+END OF GUIDE
+================================================

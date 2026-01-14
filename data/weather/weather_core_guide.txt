@@ -1,0 +1,184 @@
+=== WEATHER & CLIMATE ADVISORY CORE GUIDE ===
+Purpose: AI Krushi Mitra Knowledge Base
+Scope: All crops and regions
+
+================================================
+1. WHY WEATHER MATTERS IN FARMING
+================================================
+Weather directly affects:
+- Sowing time
+- Crop growth
+- Pest and disease spread
+- Irrigation needs
+- Harvesting and storage
+
+Correct weather-based decisions increase yield and reduce losses.
+
+================================================
+2. IMPORTANT WEATHER FACTORS
+================================================
+
+Rainfall  
+- Determines sowing time  
+- Affects irrigation planning  
+
+Temperature  
+- Controls crop growth speed  
+- High temperature increases water need  
+
+Humidity  
+- High humidity increases disease risk  
+
+Wind  
+- Helps or harms pollination  
+- Can spread pests and diseases  
+
+Sunlight  
+- Essential for photosynthesis  
+
+================================================
+3. SEASONS IN INDIAN AGRICULTURE
+================================================
+
+Kharif season  
+- June to October  
+- Depends on monsoon rainfall  
+
+Rabi season  
+- October to March  
+- Grown with residual soil moisture  
+
+Zaid season  
+- March to June  
+- Short duration crops  
+
+================================================
+4. WEATHER-BASED FARM OPERATIONS
+================================================
+
+Sowing  
+- Sow after first good rain  
+- Avoid sowing before heavy rain forecast  
+
+Irrigation  
+- Skip irrigation if rain expected  
+- Increase irrigation during heat waves  
+
+Fertilizer application  
+- Do not apply before rain  
+- Apply in cool hours  
+
+Pesticide spraying  
+- Do not spray on windy or rainy days  
+- Spray early morning or evening  
+
+Harvesting  
+- Avoid harvest during rain  
+- Dry produce in sunlight  
+
+================================================
+5. CLIMATE RISKS TO CROPS
+================================================
+
+Drought  
+- Reduces yield  
+- Causes crop stress  
+
+Flood  
+- Causes root rot  
+- Spreads diseases  
+
+Heat wave  
+- Reduces flowering  
+- Causes fruit drop  
+
+Cold wave  
+- Damages seedlings  
+- Slows growth  
+
+Cyclone  
+- Lodging of crops  
+- Crop destruction  
+
+================================================
+6. CLIMATE-SMART FARMING PRACTICES
+================================================
+
+- Use drought-tolerant varieties  
+- Use short-duration crops  
+- Practice mulching  
+- Improve soil organic matter  
+- Harvest rainwater  
+- Use micro-irrigation  
+- Diversify crops  
+
+================================================
+7. WEATHER-BASED CROP ADVISORY
+================================================
+
+During heavy rain  
+- Improve drainage  
+- Delay fertilizer application  
+- Watch for fungal diseases  
+
+During drought  
+- Use mulching  
+- Reduce plant population  
+- Provide life-saving irrigation  
+
+During heat wave  
+- Increase irrigation frequency  
+- Use shade nets for vegetables  
+
+During cold wave  
+- Use light irrigation at night  
+- Cover nursery beds  
+
+================================================
+8. WEATHER & DISEASE CONNECTION
+================================================
+High-risk conditions:
+- High humidity + warm temperature → fungal diseases  
+- Continuous rain → bacterial diseases  
+- Dry + warm → insect outbreaks  
+
+Farmers should increase field monitoring during such conditions.
+
+================================================
+9. WEATHER FORECAST SOURCES
+================================================
+
+Reliable sources:
+- IMD (India Meteorological Department)  
+- Kisan Suvidha App  
+- mKisan SMS alerts  
+- State agriculture portals  
+
+================================================
+10. FARMER WEATHER SAFETY
+================================================
+
+During lightning  
+- Do not stand under trees  
+- Avoid open fields  
+
+During heat  
+- Drink water frequently  
+- Avoid working at noon  
+
+During cyclone  
+- Secure farm tools  
+- Move animals to safe place  
+
+================================================
+11. POST-HARVEST WEATHER CARE
+================================================
+- Dry grains properly  
+- Protect stored produce from moisture  
+- Use moisture-proof storage  
+- Check stores after rain  
+
+================================================
+12. FUTURE OF WEATHER-BASED FARMING
+================================================
+- AI-based weather
