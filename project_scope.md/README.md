@@ -102,6 +102,7 @@ Knowledge Base
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <https://github.com//ai-krushi-mitra.git>
+git clone <https://github.com/rajujonnalagadda55141-a11y/AI-Krushi-Mitra>
 cd AI-Krushi-Mitra
 ```
+
